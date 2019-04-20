@@ -4,8 +4,6 @@ import org.junit.Test;
 
 public class AppTest {
 // rrt   
-    // Test
-    // Another Test
     private String INPUT = "13411";
     @Test 
     public void testLength() { 
