@@ -8,17 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        // This is a Test
-        // This is a Test
-        // This is a Test
-        // This is a Test
-        // and I'm out...
-        // found a bug with that last commit
-        // fresh instance
-        // second commit
-        //r
-        // again
-        // tgo 
+        int a = "1"; // buggy line
         System.out.println( "Hello devops" );
     }
 }
