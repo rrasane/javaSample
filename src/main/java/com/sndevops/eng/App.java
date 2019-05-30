@@ -10,6 +10,7 @@ public class App
     {
         int a = "1"; // buggy line
         int b = "1"; // buggy line
+        int c = "1"; // buggy line
         System.out.println( "Hello devops" );
     }
 }
