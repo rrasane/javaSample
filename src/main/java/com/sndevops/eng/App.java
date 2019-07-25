@@ -14,4 +14,5 @@ public class App
         int c = "1"; // buggy line
         System.out.println( "Hello devops" );
     }
+    // Comment for testing
 }
