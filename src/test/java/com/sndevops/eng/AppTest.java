@@ -12,6 +12,7 @@ public class AppTest {
     // another test
     // test 1
     // tet2
+    // test4
     private String INPUT = "13411";
     @Test 
     public void testLength() { 
