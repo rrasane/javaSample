@@ -10,11 +10,7 @@ public class AppTest {
     // Test on 1/25/2020
     // tested on 1/31/2020
     // tested on 4:03PM
-    // another commit
-    // commit2
-    // commit3
-    // commit4
-    // commit5
+    // tested on 2/3/2020
     private String INPUT = "13411";
     @Test 
     public void testLength() { 
