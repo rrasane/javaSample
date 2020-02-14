@@ -8,6 +8,7 @@ public class App
     // This is a test
     // This is a second test
     // This is a third test
+    // fourth test
 {
     public static void main( String[] args )
         // test line
