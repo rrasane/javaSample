@@ -11,7 +11,6 @@ public class App
     // fourth test
     // fifth test
     // another test
-    // committed on 2/14/2020
 {
     public static void main( String[] args )
         // test line
