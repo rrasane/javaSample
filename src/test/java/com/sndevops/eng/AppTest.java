@@ -3,16 +3,7 @@ import org.junit.Assert;
 import org.junit.Test; 
 
 public class AppTest {
-// rrt   
-    // Test
-    // Test again
-    // Third test
-    // Test on 1/25/2020
-    // tested on 1/31/2020
-    // tested on 4:03PM
-    // tested on 2/3/2020
-    // tested on 4:30 PM
-    // tested on 2/14/2020
+    // committed on 2/14/2020
     private String INPUT = "13411";
     @Test 
     public void testLength() { 
