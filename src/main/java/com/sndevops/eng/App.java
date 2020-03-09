@@ -15,6 +15,8 @@ public class App
     public static void main( String[] args )
         // test line
     {
+        int i;
+        System.out.println( "Red eye ? " + i );
         System.out.println( "Hello devops again" );
     }
     // Comment for testing
